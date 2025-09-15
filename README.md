@@ -1,4 +1,4 @@
-# Blinkit Store Placement Analysis
+# Still Working : Blinkit Store Placement Analysis
 
 A dynamic web application for Blinkit to analyze store placement opportunities using real-time data, heatmaps, and competitive analysis. This MERN stack application with Kafka integration provides comprehensive insights for warehouse placement decisions.
 
@@ -365,3 +365,4 @@ For support and questions:
 ---
 
 **Built with ❤️ for Blinkit's growth and success**
+
